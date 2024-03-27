@@ -1,0 +1,50 @@
+.pls{
+    background-color: #d1d2d4;
+    padding: 0px 5px;
+    font-size: 15px;
+    color: #fff;
+    line-height: normal;
+}
+.pls2 {
+    background-color: #d1d2d4;
+    padding: 0px 10px;
+    font-size: 20px;
+    color: #fff;
+    line-height: normal;
+    font-weight: bold;
+}
+.pls3 {
+    background-color: #d1d2d4;
+    padding: 0px 3px;
+    font-size: 10px;
+    color: #fff;
+    line-height: normal;
+    font-weight: bold;
+}
+.pls-L{
+    background-color: #2e65a1;
+}
+.pls-LL{
+    background-color: #2e65a1;
+    opacity: 0.6;
+}
+.pls-C{
+    background-color: #94629d;
+}
+.pls-R{
+    background-color: #c9191f;
+}
+.pls-RL{
+    background-color: #c9191f;
+    opacity: 0.6;
+}
+#accordion .btn.collapsed span{
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content:"f054";
+}
+#accordion .btn span{
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content:"f078";
+}
